@@ -1,4 +1,6 @@
 body{
+    padding-top: 30px;
+    padding-bottom: 40px;
     margin: 0;
     border: 10px solid green;
 }
@@ -14,4 +16,7 @@ img{
 .content{
     margin: auto;
     width: 50%;
+}
+h2{
+    color: rgb(211, 45, 34);
 }
