@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    border: 10px solid green;
+}
+
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+
+.content{
+    margin: auto;
+    width: 50%;
+}
